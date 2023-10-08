@@ -1,0 +1,162 @@
+C:\Users\burak\source\repos\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\burak\source\repos\GameCenter\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\burak\source\repos\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.GameCenter.resources
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaForm.resources
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaGuncelleForm.resources
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.UrunGuncelleForm.resources
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.UrunlerForm.resources
+C:\Users\burak\source\repos\GameCenter\GameCenter\obj\Debug\GameCenter.MasaKapatForm.resources
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.GameCenter.resources
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaForm.resources
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaGuncelleForm.resources
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.MasaKapatForm.resources
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.UrunGuncelleForm.resources
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.UrunlerForm.resources
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Proje8 Started\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.GameCenter.resources
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaForm.resources
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaGuncelleForm.resources
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.MasaKapatForm.resources
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.UrunGuncelleForm.resources
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.UrunlerForm.resources
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Proje8 Started\Proje Toparlama\GameCenter\GameCenter\obj\Debug\GameCenter.SatisListele.resources
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.GameCenter.resources
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaForm.resources
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaGuncelleForm.resources
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.KiralamaYapForm.resources
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.MasaKapatForm.resources
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.SatisListele.resources
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunGuncelleForm.resources
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunlerForm.resources
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\burak\source\repos\ProjeMainDevamı\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.GameCenter.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaGuncelleForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.KiralamaYapForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.MasaKapatForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.SatisListele.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunGuncelleForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunlerForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.GameCenter.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaGuncelleForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.KiralamaYapForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.MasaKapatForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.SatisListele.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunGuncelleForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunlerForm.resources
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\burak\source\repos\PROJE MAIN SON HALİ\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.GameCenter.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaGuncelleForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.KiralamaYapForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.MasaKapatForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.SatisListele.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunGuncelleForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunlerForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.GameCenter.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaGuncelleForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.KiralamaYapForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.MasaKapatForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.SatisListele.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunGuncelleForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunlerForm.resources
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Proje Son hali 23.05.2022 Started\Started Deneme\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.GameCenter.resources
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaForm.resources
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaGuncelleForm.resources
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.KiralamaYapForm.resources
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.MasaKapatForm.resources
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.SatisListele.resources
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunGuncelleForm.resources
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.UrunlerForm.resources
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Proje Main\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.GameCenter.resources
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.CihazKiralaForm.resources
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.KiralamaYapForm.resources
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.MasaKapatForm.resources
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.SatisListele.resources
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\burak\source\repos\Sunum\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
